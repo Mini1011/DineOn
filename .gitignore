@@ -1,0 +1,5 @@
+/node_modules
+/dist
+.parcel-cache
+.cache
+.cache/d5/a5f8ab699163ab02b9cdea56363229.json filter=lfs diff=lfs merge=lfs -text
